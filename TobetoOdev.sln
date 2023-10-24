@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharVariable", "CharVariabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleVariable", "DoubleVariable\DoubleVariable.csproj", "{B2C56B11-CBA7-47FE-8E23-26FAB41C15D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalVariable", "DecimalVariable\DecimalVariable.csproj", "{6B2DDDCB-9B17-4A5C-A00B-554B0880DC17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B2C56B11-CBA7-47FE-8E23-26FAB41C15D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2C56B11-CBA7-47FE-8E23-26FAB41C15D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2C56B11-CBA7-47FE-8E23-26FAB41C15D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2DDDCB-9B17-4A5C-A00B-554B0880DC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2DDDCB-9B17-4A5C-A00B-554B0880DC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2DDDCB-9B17-4A5C-A00B-554B0880DC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2DDDCB-9B17-4A5C-A00B-554B0880DC17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
