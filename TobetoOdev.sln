@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortVariable", "ShortVaria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteVariable", "ByteVariable\ByteVariable.csproj", "{E5EE03CB-C24C-4365-916D-CFFDAFE2CDF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVariable", "BoolVariable\BoolVariable.csproj", "{27AF1A0A-416F-4701-A3F3-4CA41603D15B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E5EE03CB-C24C-4365-916D-CFFDAFE2CDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5EE03CB-C24C-4365-916D-CFFDAFE2CDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5EE03CB-C24C-4365-916D-CFFDAFE2CDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
