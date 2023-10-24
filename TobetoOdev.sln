@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteVariable", "ByteVariabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVariable", "BoolVariable\BoolVariable.csproj", "{27AF1A0A-416F-4701-A3F3-4CA41603D15B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharVariable", "CharVariable\CharVariable.csproj", "{43D0415E-65D5-47A5-824F-68BD30A656A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27AF1A0A-416F-4701-A3F3-4CA41603D15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D0415E-65D5-47A5-824F-68BD30A656A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D0415E-65D5-47A5-824F-68BD30A656A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D0415E-65D5-47A5-824F-68BD30A656A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D0415E-65D5-47A5-824F-68BD30A656A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
