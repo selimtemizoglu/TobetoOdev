@@ -1,12 +1,17 @@
-﻿string city = "Ankara";
-//Console.WriteLine(city[0])
+﻿NewMethod();
 
-foreach (var item in city)
+static void NewMethod()
 {
-    Console.WriteLine(item);
+    string city = "Ankara";
+    //Console.WriteLine(city[0])
+
+    foreach (var item in city)
+    {
+        Console.WriteLine(item);
+    }
+
+    string city2 = "İstanbul";
+
+    Console.WriteLine(String.Format("{0}{1}", city, city2));
+    Console.ReadLine();
 }
-
-string city2 = "İstanbul";
-
-Console.WriteLine(String.Format("{0}{1}",city,city2));
-Console.ReadLine();

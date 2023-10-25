@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayi", "AsalSayi\AsalSa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{3850269B-2F47-4938-9913-FF7092125C36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethod", "StringMethod\StringMethod.csproj", "{08501B45-B9F8-44E4-BC15-2D1DE3E1566D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{3850269B-2F47-4938-9913-FF7092125C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3850269B-2F47-4938-9913-FF7092125C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3850269B-2F47-4938-9913-FF7092125C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08501B45-B9F8-44E4-BC15-2D1DE3E1566D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08501B45-B9F8-44E4-BC15-2D1DE3E1566D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08501B45-B9F8-44E4-BC15-2D1DE3E1566D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08501B45-B9F8-44E4-BC15-2D1DE3E1566D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
