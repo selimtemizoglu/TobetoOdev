@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CokBoyutluArrays", "CokBoyutluArrays\CokBoyutluArrays.csproj", "{7F7B44EA-F2ED-48F9-A359-EBDBBD912DD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{1C45FB4D-6A05-46E5-AA02-54E1FDB2BDD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{7F7B44EA-F2ED-48F9-A359-EBDBBD912DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7B44EA-F2ED-48F9-A359-EBDBBD912DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7B44EA-F2ED-48F9-A359-EBDBBD912DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C45FB4D-6A05-46E5-AA02-54E1FDB2BDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C45FB4D-6A05-46E5-AA02-54E1FDB2BDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C45FB4D-6A05-46E5-AA02-54E1FDB2BDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C45FB4D-6A05-46E5-AA02-54E1FDB2BDD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
