@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultParametreliMethod", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge", "Challenge\Challenge.csproj", "{C20DF798-1699-41A6-9C28-5EB0238CC761}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutKeyword", "OutKeyword\OutKeyword.csproj", "{2D787C54-1224-4DBC-946A-DD4CEA5EA7DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{C20DF798-1699-41A6-9C28-5EB0238CC761}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20DF798-1699-41A6-9C28-5EB0238CC761}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20DF798-1699-41A6-9C28-5EB0238CC761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D787C54-1224-4DBC-946A-DD4CEA5EA7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D787C54-1224-4DBC-946A-DD4CEA5EA7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D787C54-1224-4DBC-946A-DD4CEA5EA7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D787C54-1224-4DBC-946A-DD4CEA5EA7DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
