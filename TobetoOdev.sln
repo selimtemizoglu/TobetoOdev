@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsKeyword", "ParamsKeyword\ParamsKeyword.csproj", "{EB631997-9B3D-4D1A-9195-E7CE79274C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{3EEF5E49-5813-44E2-A60A-C4CA3A6A6EAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{EB631997-9B3D-4D1A-9195-E7CE79274C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB631997-9B3D-4D1A-9195-E7CE79274C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB631997-9B3D-4D1A-9195-E7CE79274C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEF5E49-5813-44E2-A60A-C4CA3A6A6EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEF5E49-5813-44E2-A60A-C4CA3A6A6EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEF5E49-5813-44E2-A60A-C4CA3A6A6EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEF5E49-5813-44E2-A60A-C4CA3A6A6EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
